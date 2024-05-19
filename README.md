@@ -4,4 +4,3 @@ Concepts used:
 - Java OOP
 - Design Principles: Abstraction, Encapsulation, Inheritence and Polymorphism
 
-Course Project for Programming Methodology II 
